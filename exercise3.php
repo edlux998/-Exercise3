@@ -83,3 +83,8 @@ while($i<=8){
     $i++;
     echo"<br>";
 }
+?>
+<a href="https://github.com/mefisso4/project-web">Github repo</a><br>
+<a href="https://mefisso4.github.io/project-web/">Project website</a>
+</body>
+</html>
